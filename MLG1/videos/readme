@@ -3,4 +3,5 @@ Leaving：looming and then leaving
 Contrast: different color balls looming
 Speed: looming with 4 diffenent velocity
 Size: looming with size 4, 6 and 8cm.
-
+Near miss: angular looming with angel 0, 5, 10, and 20 deg.
+Rotation: self-rotation with 180, 270, and 360 deg per 2s.
